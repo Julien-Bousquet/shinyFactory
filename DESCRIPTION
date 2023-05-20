@@ -1,0 +1,18 @@
+Package: shinyFactory
+Title: A code writer of your shiny app framework
+Version: 0.0.1.0000
+Authors@R: 
+    person(given = "Julien",
+           family = "Bousquet",
+           role = c("aut", "cre"),
+           email = "julien.bousquet@u-bordeaux.fr",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: shinyFactory produce easily the structure 
+    of shiny application.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends:
+    shiny
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
